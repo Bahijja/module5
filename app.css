@@ -1,0 +1,10 @@
+body{ background-color: crimson;
+    padding: 60px;}
+
+h1{color: white;font-size: 30px;}
+#myheader{ background-color: black; 
+    width: 200px;
+    padding: 80px;
+border-radius: 20%
+}
+a{ text-decoration: none;}
